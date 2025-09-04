@@ -286,7 +286,7 @@ Open `Audio_Interview.ipynb`, run cells top‑to‑bottom, then execute the fina
 - **UI panes:** **Reference model answer** (optional), **AI feedback**, **Delivery feedback**, **Suggestions**
 
 ---
-```
+`
 ## ⏱ Optional: MFA Alignment
 
 # Step 1: Open and Verify the Anaconda Prompt
@@ -351,7 +351,7 @@ example code:
 # List available pretrained dictionaries
 ! "C:\\code_projects\\MFA\\Scripts\\mfa.exe" model list dictionary
 
-```
+`
 
 
 To compute accurate pause counts/durations & word timings:
